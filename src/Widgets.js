@@ -24,9 +24,7 @@ function Widgets() {
                 <div>
                     {newArticle('ahmed', 'edr ytkhta kil al 3wa2ek')}
                     {newArticle('ahmed', 'edr ytkhta kil al 3wa2ek')}
-                    {newArticle('ahmed', 'edr ytkhta kil al 3wa2ek')}
-                    {newArticle('ahmed', 'edr ytkhta kil al 3wa2ek')}
-                    {newArticle('ahmed', 'edr ytkhta kil al 3wa2ek')}
+                   
                 </div>
         </div>
     )
